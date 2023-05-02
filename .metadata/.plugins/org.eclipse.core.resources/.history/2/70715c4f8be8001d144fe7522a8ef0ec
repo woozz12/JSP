@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+    
+  <%--   <%
+    	String name = request.getParameter("name");
+    	String nick = request.getParameter("nick");
+    %>
+     --%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+
+<%-- <p>
+	# 이름: <%=name %> <br>
+	# 별명: <%=nick %>
+	
+</p> --%>
+	
+	<p>
+		# 이름: ${param.name } <br>
+		# 별명: ${param.nick }
+	</p>
+
+
+
+</body>
+</html>
