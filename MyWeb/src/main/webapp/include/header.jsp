@@ -4,8 +4,7 @@
 <html>
 <head>
 
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-idth, initial-scale=1">
 
@@ -29,14 +28,13 @@
 
     <!-- Bootstrap Core JavaScript -->
     <script src="/MyWeb/js/bootstrap.min.js"></script>
-	
 
 </head>
 <body>
 
 	<!-- header -->
     <div class="brand">
-        <a href="/MyWeb">My Web</a>
+    	<a href="/MyWeb">My Web</a>
     </div>
     <div class="address-bar">Welcome to MyWorld</div>
 
@@ -69,7 +67,7 @@
                         <a href="">BOARD</a>
                     </li>
                     <li>
-                        <a href="">LOGIN</a>
+                        <a href="/myWeb/loginPage.user">LOGIN</a>
                     </li>
                     <li>
                         <a href="/MyWeb/joinPage.user" style="color:red">JOIN</a>
@@ -83,8 +81,20 @@
         <!-- /.container -->
     </nav>
     <!-- end header -->
-
-
+	
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+

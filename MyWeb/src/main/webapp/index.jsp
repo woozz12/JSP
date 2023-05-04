@@ -5,9 +5,6 @@
 
 <head>
 
-	
-	
-
     <!-- Script to Activate the Carousel -->
     <script>
         $('.carousel').carousel({
@@ -19,9 +16,8 @@
 
 <body>
 
-	<%@ include file = "include/header.jsp" %>
-	
-	
+	<%@ include file="include/header.jsp" %>
+
     <div class="container">
 
         <div class="row ">
@@ -123,11 +119,9 @@
         <!-- /.container -->
     </div>
     
-    	<%@ include file = "include/footer.jsp" %>
+    <%@ include file="include/footer.jsp" %>
     
-    
-    	   <!--Footer-->
-  
+
 </body>
 
 </html>
