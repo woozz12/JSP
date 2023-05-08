@@ -33,3 +33,10 @@
 5월 04, 2023 15:50:21.403 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 5월 04, 2023 17:12:11.771 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
 5월 04, 2023 17:13:59.167 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 08, 2023 10:53:28.572 NEW SESSION
+5월 08, 2023 10:53:28.572 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 08, 2023 11:01:04.398 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+5월 08, 2023 12:14:09.990 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+5월 08, 2023 14:17:49.537 [10516:5048:0508/141749.536:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+5월 08, 2023 17:54:58.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

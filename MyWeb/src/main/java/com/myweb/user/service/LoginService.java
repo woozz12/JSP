@@ -36,6 +36,7 @@ public class LoginService implements IUserService {
 		
 		// 주소 가져오기
 		UserDAO dao = UserDAO.getInstance();
+		
 		response.setContentType("text/html; charset = UTF-8");
 		String htmlCode;
 		
