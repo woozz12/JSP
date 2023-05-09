@@ -40,3 +40,6 @@
 5월 08, 2023 12:14:09.990 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
 5월 08, 2023 14:17:49.537 [10516:5048:0508/141749.536:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
 5월 08, 2023 17:54:58.85 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 09, 2023 14:57:48.401 NEW SESSION
+5월 09, 2023 14:57:48.401 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
